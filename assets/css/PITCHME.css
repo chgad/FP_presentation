@@ -5,7 +5,7 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
-.reveal .slides section {
+.reveal .slides {
     color:#ecc189;
 }
 .reveal pre {
