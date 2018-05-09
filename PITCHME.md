@@ -19,7 +19,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 <p><span class="slide-title"> Weltraumtransporttechnologien</span></p>
 
-<span class="slide-title"> Ein Vortrag von Christian Grossmüller und Ida Schmidt
+#### Ein Vortrag von Christian Grossmüller und Ida Schmidt
 
 ---?image=assets/image/jeremy-bishop.jpg
 
