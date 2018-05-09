@@ -5,8 +5,8 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
-.reveal .slides p {
-    color=#ecc189;
+.reveal .slides section {
+    color:#ecc189;
 }
 .reveal pre {
   width: 100%;
