@@ -44,8 +44,15 @@ Irgendwas zu Technologieen zum Verlassen von Planeten.
 ---?image=assets/image/john-reign-abarintos.jpg
 
 Irgendwas zu Technologieen zum Verlassen von Planeten.
-
-
+<div class="left">
+    <ul>
+        <li>Hi</li>
+        <li>Again</li>
+    </ul>
+</div>
+<div class="right">
+<img src="test.png" alt="test" style="width:500px;height:600px;">
+</div>
 
 
 
