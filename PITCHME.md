@@ -51,7 +51,7 @@ Irgendwas zu Technologieen zum Verlassen von Planeten.
     </ul>
 </div>
 <div class="right">
-<img src="test.png" alt="test" style="width:500px;height:600px;">
+<img src="test.jpg" alt="test" style="width:500px;height:600px;">
 </div>
 
 
