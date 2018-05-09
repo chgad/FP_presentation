@@ -21,7 +21,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 <br>
 <div class="center">
-Ein Vortrag von Christian Grossmüller und Ida Schmidt
+<span class="slide-title"> Ein Vortrag von Christian Grossmüller und Ida Schmidt
+</span>
 </div>
 
 ---?image=assets/image/jeremy-bishop.jpg
