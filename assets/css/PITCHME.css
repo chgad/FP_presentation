@@ -5,6 +5,10 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
+.reveal .backgrounds{
+    opacity: 0.75 !important;
+}
+
 .reveal pre {
   width: 100%;
 }
