@@ -27,7 +27,7 @@
 }
 
 .reveal p span.slide-title {
-  color: #e9d48e;
+  color: white;
   background: #132029;
   padding: 4px 15px;
   opacity: 0.75 !important;
@@ -80,9 +80,9 @@ span.black {
 .gp-download { margin-left: 10px; }
 
 .reveal p {
-    color: #e9d48e;
+    color: white;
 }
 
 .reveal ul {
-    color: #e9d48e;
+    color: white;
 }
