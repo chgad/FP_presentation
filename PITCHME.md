@@ -94,6 +94,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ##### Elektrische Antriebe
 @ul
 - Lichtbogenantrieb
+@ulend
+@ul
   - verbaut in "METEOR" Wettersateliten
   - benutzt zur Lageregelung
   - Erhitzung des Treibstoffes wird ausgenutzt
