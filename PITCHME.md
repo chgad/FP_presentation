@@ -117,7 +117,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 #### Sci-Fi Technologien
 @ul
-- Warp Drive ~ Wirklich nur Fiktion
+- Warp Drive - Wirklich nur Fiktion
 @ulend
 @ul
   - Alcubierre Drive
@@ -127,7 +127,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 @ul
-- Hyperspace ~ Wo soll das sein?
+- Hyperspace - Wo soll das sein?
 @ulend
 @ul
   - keine extra Raumdimension
