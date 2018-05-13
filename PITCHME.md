@@ -125,10 +125,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   + Bewegung erfolgt indirekt
   + Antrieb "verformt" Raumzeit
 @ulend
-
-@ul
 - Hyperspace ~ Wo soll das sein?
-@ulend
 @ul
   + keine extra Raumdimension
   + Raumkomprimierung
