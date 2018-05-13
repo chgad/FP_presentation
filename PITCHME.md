@@ -120,9 +120,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ul
 - Topic 1
 @ulend
-
 @ul
-
   + item test 1
   + item test 2
   + item test 3
@@ -133,9 +131,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ul
 - Topic 2
 @ulend
-
 @ul
-
   + item test 1
   + item test 2
   + item test 3
