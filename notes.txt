@@ -1,0 +1,38 @@
+
+
+
+Warp Drive
+
++ bekannt aus allen Star Trek Serien
++ wie funktioniert das ganze?
+    + in Serie und Film wird von Warpblase, Warpkern die Rede
+    + aber ist das nur ein Hirngespinst ?
++ Alcubiere Drive
+    + benannt nach Mexikanischem Physiker Miguel Alcubierre
+    + Publiziert Mai 1994
+    + Konzept der Alcubierre Metrik
+        + Erzeugt eine Raumkrümmung
+        + Ein Schiff das sich innerhalb des Gekrümmten raumes
+          in der sogenannten Warpblase befindet stellt bezüglich des
+          Flachenraumes Inertialsystem dar
+        + Die Warpblase beschleunigt, das Schiff bewegt sich quasi nicht
+          --> nur die Blase in der es sich befindet
+          --> Schiff befindet sich auf einer Freien-Fall Geodäte
+    + Benötigt zum erzeugen der Raumkrümmung "exotic matter"
+      um (kommt bei den Berechnungen heraus) negative Energiedichte zu erzeugen
+    + Ist das ein Problem ? Negative Energie?
+      ---> Nein, Beispiel ist der Casimir Effekt, welcher auch negative
+           Energie Dichten beschreibt/hergibt.
+
+Hyperspace
+
++ bekannt aus dem Star Wars Universum
++ Idee dahinter einfach:
+    + Warum sollte man immer schneller werden um Strecke S zurückzulegen
+      wenn man einfach die Strecke S "stauchen" kann ?
+    + Genau das Macht der Antrieb !
+    + Dabei erfolgt die Stauchung lediglich in die geplante Reise Richtung
+    ---> für Richtungswechsel muss mitunter der Hyperspace verlassen werden.
+    ---> Hyperraumrouten zu kennen/erforschen ist wichtig (im Star Wars Universum, nach Kanon, nur 5 bekannt)
+    ---> Wilde Sprünge hoch Riskant !
+         ==> man will schließlich nicht an einem Asteroiden oder ähnlichem zerschellen

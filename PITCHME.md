@@ -117,15 +117,28 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 #### Sci-Fi Technologien
 
+- Warp Drive - Wirklich nur Fiktion 
+  - Alcubierre Drive
+  - Benötigt "exotic matter"
+  - Bewegung erfolgt indirekt
+  - Antrieb "verformt" Raumzeit
+
+- Hyperspace - Wo soll das sein?
+  - keine extra Raumdimension
+  - Raumkomprimierung
+  - Routenplanung
+  - "Lichtmauer"
+  
+
 ---?image=assets/image/gitpitch-audience.jpg
 ## Vielen Dank für Eure Aufmerksamkeit
 
 ---?image=assets/image/gitpitch-audience.jpg
 #### Quellen
 
-- [1]
-- [2]
-- [3]
+- https://en.wikipedia.org/wiki/Alcubierre_drive
+- http://jedipedia.wikia.com/wiki/Hyperraumroute
+- http://jedipedia.wikia.com/wiki/Hyperantrieb
 - [4]
 - [5]
 
