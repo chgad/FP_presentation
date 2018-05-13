@@ -89,29 +89,23 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-
 #### Technologieen für das Interstellare Reisen
 ##### Elektrische Antriebe
 @ul
 - Lichtbogenantrieb
-@ulend
-@ul
-  - verbaut in "METEOR" Wettersateliten
-  - benutzt zur Lageregelung
-  - Erhitzung des Treibstoffes wird ausgenutzt
+- verbaut in "METEOR" Wettersateliten
+- benutzt zur Lageregelung
+- Erhitzung des Treibstoffes wird ausgenutzt
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-
 #### Technologieen für das Interstellare Reisen
 ##### Elektrische Antriebe
 @ul
 - Hallantrieb
-@ulend
-@ul
-  - verbaut im SMART 1 Projekt der ESA
-  - benutzt zur Beschleunigung
-  - Ionisation des Treibstoffes wird ausgenutzt
+- verbaut im SMART 1 Projekt der ESA
+- benutzt zur Beschleunigung
+- Ionisation des Treibstoffes wird ausgenutzt
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
@@ -132,10 +126,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ##### Andere Antriebe
 @ul
 - Sonnensegel
-@ulend
-@ul
-  - letztes Projekt LightSail (2015)
-  - nutzt Impulsübertrag bei Reflektion von Licht
+- letztes Projekt LightSail (2015)
+- nutzt Impulsübertrag bei Reflektion von Licht
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
@@ -143,10 +135,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ##### Andere Antriebe
 @ul
 - Tether
-@ulend
-@ul
-  - letztes Projekt STARS (2009)
-  - nutzt Magnetfeld von Planeten durch Lorentzkraft  
+- letztes Projekt STARS (2009)
+- nutzt Magnetfeld von Planeten durch Lorentzkraft  
 @ulend
 
 ---?image=assets/image/jeremy-bishop.jpg
