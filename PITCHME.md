@@ -26,13 +26,13 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @title[Übersicht]
 
 <p><span class="slide-title"> Übersicht </span></p>
-
-- Begriffserklärungen |
-- Technologien zum Verlassen von Planeten |
-- Technologien für das Interstellare Reisen |
-- Projekte der Raumfahrtorganisationen |
-- Sci-Fi Technologien |
-
+@ul
+- Begriffserklärungen 
+- Technologien zum Verlassen von Planeten 
+- Technologien für das Interstellare Reisen 
+- Projekte der Raumfahrtorganisationen 
+- Sci-Fi Technologien 
+@ulend
 ---?image=assets/image/jeremy-bishop.jpg
 #### Begriffserklärungen
 
@@ -116,19 +116,18 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/octavian-rosca.jpg
 
 #### Sci-Fi Technologien
+@ul
+- Warp Drive ~ Wirklich nur Fiktion
+  + Alcubierre Drive
+  + Benötigt "exotic matter"
+  + Bewegung erfolgt indirekt
+  + Antrieb "verformt" Raumzeit
 
-- Warp Drive ~ Wirklich nur Fiktion |
-  + Alcubierre Drive |
-  + Benötigt "exotic matter" |
-  + Bewegung erfolgt indirekt |
-  + Antrieb "verformt" Raumzeit |
-
-- Hyperspace ~ Wo soll das sein? |
-  + keine extra Raumdimension |
-  + Raumkomprimierung |
-  + Routenplanung |
-
-  
+- Hyperspace ~ Wo soll das sein?
+  + keine extra Raumdimension
+  + Raumkomprimierung
+  + Routenplanung
+@ulend
 
 ---?image=assets/image/gitpitch-audience.jpg
 ## Vielen Dank für Eure Aufmerksamkeit
