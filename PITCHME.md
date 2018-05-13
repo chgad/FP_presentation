@@ -122,7 +122,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   + Benötigt "exotic matter"
   + Bewegung erfolgt indirekt
   + Antrieb "verformt" Raumzeit
-
+@ulend
+@ul
 - Hyperspace ~ Wo soll das sein?
   + keine extra Raumdimension
   + Raumkomprimierung
