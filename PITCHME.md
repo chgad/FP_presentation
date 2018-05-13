@@ -116,7 +116,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 
-<img src="nerva.jpg" alt="nerva" style="height: 200px;"/>
+<img src="nerva.jpg" alt="nerva" style="height: 300px;"/>
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
