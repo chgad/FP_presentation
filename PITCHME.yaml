@@ -6,7 +6,6 @@
 #
 theme : moon
 theme-override : assets/css/PITCHME.css
-# theme-override : assets/css/OWN.css
 highlight : atom-one-light
 background : assets/image/octavian-rosca.jpg
 transition : none
