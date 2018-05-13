@@ -130,12 +130,13 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ##### Andere Antriebe
 @ul
 - Sonnensegel
+@ulend
+@ul
   - letztes Projekt LightSail (2015)
   - nutzt Impulsübertrag bei Reflektion von Licht
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-
 #### Technologieen für das Interstellare Reisen
 ##### Andere Antriebe
 @ul
