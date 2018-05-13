@@ -212,9 +212,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - http://jedipedia.wikia.com/wiki/Hyperantrieb
 - https://de.wikipedia.org/wiki/Antriebsmethoden_f%C3%BCr_die_Raumfahrt
 - https://www.wortbedeutung.info/Antrieb/
-- https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_das_Verbot_
-von_Kernwaffenversuchen_in_der_Atmosph%C3%A4re,
-_im_Weltraum_und_unter_Wasser
+- https://bit.ly/1PuDc2F --> Verweis auf Wikipedia zum Vertrag über das Verbot von Kernwaffenversuchen
 - https://www.bernd-leitenberger.de/zukuenftige_antriebe.shtml
 
 ---?image=assets/image/gitpitch-audience.jpg
