@@ -182,7 +182,8 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/octavian-rosca.jpg
 
 #### Alcubiere Raumzeit
-![]()
+
+<img src="Alcubierre.jpg" alt="nerva" style="height: 300px;"/>
 
 
 ---?image=assets/image/octavian-rosca.jpg
@@ -213,6 +214,10 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - https://www.wortbedeutung.info/Antrieb/
 - https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_das_Verbot_von_Kernwaffenversuchen_in_der_Atmosph%C3%A4re,_im_Weltraum_und_unter_Wasser
 - https://www.bernd-leitenberger.de/zukuenftige_antriebe.shtml
+
+---?image=assets/image/gitpitch-audience.jpg
+#### Quellen
+
 - https://www.bernd-leitenberger.de/nukleare-antriebe.shtml
 - https://de.wikipedia.org/wiki/Sonnensegel_(Raumfahrt)
 - https://web.archive.org/web/20090201201834/http://stars1.eng.kagawa-u.ac.jp/english/index.html
