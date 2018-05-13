@@ -36,6 +36,12 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/jeremy-bishop.jpg
 #### Begriffserklärungen
 
+@ul
+- Antrieb
+- spezifischer Impuls
+- "zum Verlassen von Planeten"
+- "für Interstellare Reisen"
+
 ---?image=assets/image/jeremy-bishop.jpg
 
 @title[Übersicht]
@@ -76,10 +82,19 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
+@ul
+- Elektrische Antriebe
+- Atomare Antriebe
+- andere Antriebe
+@ulend
+
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
+##### Nukleare Antriebe
+- Erforuschung in den 60er und 70er Jahren
+- der Festkernreaktor
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
@@ -126,6 +141,20 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   - Antrieb "verformt" Raumzeit
 @ulend
 
+@ul
+- Hyperspace - Wo soll das sein?
+@ulend
+@ul
+  - keine extra Raumdimension
+  - Raumkomprimierung
+  - Routenplanung
+@ulend
+---?image=assets/image/octavian-rosca.jpg
+
+#### Alcubiere Raumzeit
+![]()
+
+
 ---?image=assets/image/octavian-rosca.jpg
 
 #### Sci-Fi Technologien
@@ -150,9 +179,10 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - https://en.wikipedia.org/wiki/Alcubierre_drive
 - http://jedipedia.wikia.com/wiki/Hyperraumroute
 - http://jedipedia.wikia.com/wiki/Hyperantrieb
-- [4]
-- [5]
-
+- https://de.wikipedia.org/wiki/Antriebsmethoden_f%C3%BCr_die_Raumfahrt
+- https://www.wortbedeutung.info/Antrieb/
+- https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_das_Verbot_von_Kernwaffenversuchen_in_der_Atmosph%C3%A4re,_im_Weltraum_und_unter_Wasser
+- https://www.bernd-leitenberger.de/zukuenftige_antriebe.shtml
 
 ---?image=assets/image/john-reign-abarintos.jpg
 

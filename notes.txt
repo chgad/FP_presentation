@@ -1,5 +1,76 @@
 
+Begriffserklärungen
 
+- Antrieb
+    + eine technische Vorrichtung welche durch Energiewandlung Obejkte in
+      Bewegung versetzt
+
+- spezifischer Impuls
+    + größe um Antriebe zu vergleichen
+    + EInheit m/s
+    + Beispiel : I_S = 1000 m/s bedeutet das 1 kg des Treibstoffes eine Impulsänderung von 1000 Ns bewirkt
+
+- zum Verlassen von Planeten
+    + damit sind Antriebe gemeint, dass der Antrieb im esentlich effizient oder nützlich ist
+      um einen Planeten zu verlassen aber erhebliche Nachteile im Interstellaren Raum aufweist.
+
+- für Interstellare Reisen
+    + Komplement zum eben gesgaten. antriebe welche mit unter einen zu geringen spezifischen Impuls aufweisen
+      um Flucht geschwindigkeit zu erreich, oder nicht effizient erreichen können
+    + Antriebe die Aufgrund langsamer Beschleunigung unter geringerem Treibstoff verbrauch für Interstellaren Raum
+      geeignet sind
+
+Interstellares Reisen
+
+Antriebsaufzählung
+- elektrische Antriebe
+    + Antriebe die zur beschleunigung direkte oder inirekte Umwandlung von elektrischer Energie
+      nutzen
+    + diese Antriebe benötigen selbstverständlich eine Stromversorgung/Stromgewinnung
+      ---> Solarpanele oder (wie in einem der vorigen Vorträge gehärt) atomare Baterien
+
+- atomare Antriebe
+    + Antriebe die den radioaktiven Zerfall von Stoffen direkt oder indirekt nutzen
+    + Hier gibt es aber ein wesentliches Problem...
+        + Vertrag über das Verbot von Kernwaffenversuchen in der Atmosphäre, im Weltraum und unter Wasser
+          --> trat in Kraft 10. Oktober 1963
+          --> Darunter fallen auch Emissionen von Radioaktiven Stoffen beim Antriebstest...
+
+
+- andere Antriebe
+    + im wesentlichen Antriebe die ohne Treibstoff bzw. auf keine der eben genannten methoden funktionieren
+
+Nukleare Antriebe
+- erforschung erfolgte in der 60-70er Jahren in den USA
+    + "damals" war die Atomkraft der Erlöser
+    + Vision: Ersetzen der chemischen Antriebe auch zum verlassen von Planeten
+    + eingestellt 1973
+- Beispiel Festkörperreaktor
+    + NERVA Antrieb (Nuclear Enginge for Rocket Vehicle Application)
+    + Funktionsweise: Nuklearreaktoren erzeugen Große Hitze --> das wollte man ausnutzen
+    ---> als auszustoßende Masse sollte Wasserstoff dienen
+    ---> spezifischer Impuls von 1000s
+    ---> Reaktorleistung ca. 1100MW
+    - Nachteile
+        - Wasserstoff nur bedingt lagerfähig
+        - Reaktor kann nicht komplett von Umweltabgeschottet sein
+        - Reaktor hat hohes eigen Gewicht
+
+- elektrische Antriebe
+    + Lichtbogenantrieb
+    + METEOR Wettersateliten -> Lageregelung
+    + Funktionsweise: Lichtbögen
+    ---> durch eine Kathode und eine ANode wird ein Lichtbogenerzeug
+    ---> Treibstoff wird durch diesen Lichtbogen geleitet und erhitzt bis ca. 5000K
+    ---> Schub im mN-N Bereich
+    + Hall Antrieb
+    + Smart 1 - ESA
+    + Funktionsweise: Ionisieren des Treibstoffes und anschließendes Beschleunigen der Ionen
+    ---> ringförmiger Kanal mit konzentrischen Magneten durchzogen
+    ---> Hohlanode an einem Ende
+    ---> Kathode dient als Elektronen Qulle --> Werden im Kanal gefangen --> Füllen diesen mitunter durch Hall-Drfit aus
+    ---> durch Hohlanode wird Treibstoff eingeführt ---> Treibstoff Ionisiert --> beschleunigt ---> Autritt
+    ---> Schub im mN-N Bereich
 
 Warp Drive
 
