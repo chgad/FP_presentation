@@ -114,7 +114,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - der Festkernreaktor - NERVA
 - Reaktor Hitze wird ausgenutzt
 @ulend
-
 ![NERVA](nerva.jpg)
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
@@ -213,15 +212,9 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/john-reign-abarintos.jpg
 
 Irgendwas zu Technologieen zum Verlassen von Planeten.
-<div class="left">
-    <ul>
-        <li>Hi</li>
-        <li>Again</li>
-    </ul>
-</div>
-<div class="right">
+
 ![test](test.jpg)
-</div>
+
 
 
 
