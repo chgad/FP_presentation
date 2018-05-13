@@ -121,7 +121,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ## Vielen Dank für Eure Aufmerksamkeit
 
 ---?image=assets/image/gitpitch-audience.jpg
-### Quellen
+#### Quellen
 
 - [1]
 - [2]
