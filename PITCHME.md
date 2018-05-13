@@ -41,7 +41,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - spezifischer Impuls
 - "zum Verlassen von Planeten"
 - "für Interstellare Reisen"
-
+@ulend
 ---?image=assets/image/jeremy-bishop.jpg
 
 @title[Übersicht]
@@ -139,15 +139,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   - Benötigt "exotic matter"
   - Bewegung erfolgt indirekt
   - Antrieb "verformt" Raumzeit
-@ulend
-
-@ul
-- Hyperspace - Wo soll das sein?
-@ulend
-@ul
-  - keine extra Raumdimension
-  - Raumkomprimierung
-  - Routenplanung
 @ulend
 ---?image=assets/image/octavian-rosca.jpg
 
