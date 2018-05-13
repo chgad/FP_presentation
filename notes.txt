@@ -9,6 +9,8 @@ Begriffserklärungen
     + größe um Antriebe zu vergleichen
     + EInheit m/s
     + Beispiel : I_S = 1000 m/s bedeutet das 1 kg des Treibstoffes eine Impulsänderung von 1000 Ns bewirkt
+- Schub:
+    + mv/t ...
 
 - zum Verlassen von Planeten
     + damit sind Antriebe gemeint, dass der Antrieb im esentlich effizient oder nützlich ist

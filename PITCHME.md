@@ -39,6 +39,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ul
 - Antrieb
 - spezifischer Impuls
+- Schub
 - "zum Verlassen von Planeten"
 - "für Interstellare Reisen"
 @ulend
@@ -56,16 +57,91 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
-#### Technologieen zum Verlassen von Planeten.
+#### Kaltgas
+
+@ul
+  - Gas unter Druck aufbewahrt
+  - Ausströmen durch Düsen
+  - Schub zwischen 1mN – 100N
+@ulend
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
-#### Technologieen zum Verlassen von Planeten.
+
+#### Aufheizen von Gasen
+
+@ul
+  - Ausdehnung erzeugt Druck und Schub
+  - Solarthermischer Antrieb, Lightcraft
+  - Noch nicht verwendet
+@ulend
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
-#### Technologieen zum Verlassen von Planeten.
+#### Feststoffe
 
+<img src="Feststoffantrieb.jpg" alt="fest" style="height: 300px;"/>
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Feststoffe - Vorteile
+
+@ul
+  - Keine Tanks
+  - Treibstoff einfach zu handhaben
+  - Abbrandcharakteristik vorhersehbar
+@ulend
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Feststoffe - Nachteile
+@ul
+  - Kein Leertransport
+  - Geringe Ausströmgeschwindigkeiten -> viel Treibstoff
+  - Schub während Abrennen nicht regulierbar
+@ulend
+
+---?image=assets/image/john-reign-abarintos.jpg
+#### Flüssig
+
+@ul
+  - Volumenzunahme erzeug Druck
+@ulend
+
+<img src="fluessigantrieb.jpg" alt="fluessig" style="height: 200px;"/>
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Flüssig - Vorteile
+@ul
+  - Regulierbar
+  - Unbetankte Montage
+  - Effizienz
+@ulend
+
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Flüssig - Nachteile
+
+@ul
+  - Hohe Kosten
+  - Fehleranfällig
+  - Änderung des Raketenschwerpunkts bei Verbrauch
+  - Explosionsgefahr
+@ulend
+
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Hybridraketen
+
+@ul
+  - Feststoff in Brennkammer, Flüssigkeit hinzugeben
+  - Kontrollierbarer UND regulierbarer Ablauf
+  - Geringere Risiken
+  - Höhere Leitung als Flüssigtreibstoffe
+@ulend
 
 ---?image=assets/image/jeremy-bishop.jpg
 
@@ -81,7 +157,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 @ul
 - Elektrische Antriebe
 - Atomare Antriebe
@@ -89,7 +165,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 ##### Elektrische Antriebe
 @ul
 - Lichtbogenantrieb
@@ -99,7 +175,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 ##### Elektrische Antriebe
 @ul
 - Hallantrieb
@@ -110,7 +186,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 ##### Nukleare Antriebe
 @ul
 - Erforschung in den 60er und 70er Jahren
@@ -122,7 +198,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 ##### Andere Antriebe
 @ul
 - Sonnensegel
@@ -131,7 +207,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
-#### Technologieen für das Interstellare Reisen
+#### Technologien für das Interstellare Reisen
 ##### Andere Antriebe
 @ul
 - Tether
@@ -154,6 +230,52 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 ---?image=assets/image/john-reign-abarintos.jpg
 
 #### Projekte der Raumfahrtorganisationen
+##### Indien - ISRO
+@ul
+- Satelliten, Trägerraketen, Bodentechnik
+@ulend
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Projekte der Raumfahrtorganisationen
+##### China - CNSA
+@ul
+- Tiangong 2 (seit 2016)
+@ulend
+
+<img src="tiangong.jpg" alt="tiangong" style="height: 300px;"/>
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Projekte der Raumfahrtorganisationen
+##### Europa - ESA
+@ul
+- Bemannte Raumfahrt, Trägerraketen, Space Science, Observing the Earth
+- ISS (seit 1998)
+@ulend
+
+<img src="ariane.jpg" alt="ariane" style="height: 300px;"/>
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Projekte der Raumfahrtorganisationen
+##### USA - NASA
+@ul
+- Wiederverwendbare Raumschiffe
+- ISS (seit 1998)
+@ulend
+
+<img src="ISS.jpg" alt="ariane" style="height: 300px;"/>
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+#### Projekte der Raumfahrtorganisationen
+##### Russland - Roskosmos
+@ul
+- Satelliten
+- ISS, Mars und Venusmissionen
+@ulend
+
 
 ---?image=assets/image/jeremy-bishop.jpg
 
@@ -171,7 +293,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 #### Sci-Fi Technologien
 @ul
-- Warp Drive - Wirklich nur Fiktion
+- Warp Drive - Wirklich nur Fiktion?
 @ulend
 @ul
   - Alcubierre Drive
@@ -221,8 +343,17 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - https://www.bernd-leitenberger.de/nukleare-antriebe.shtml
 - https://de.wikipedia.org/wiki/Sonnensegel_(Raumfahrt)
 - https://web.archive.org/web/20090201201834/http://stars1.eng.kagawa-u.ac.jp/english/index.html
+- https://bit.ly/2L1weYe --> Bild Tiangong
+- https://bit.ly/2rEIXaI --> Bild ISS
+- https://bit.ly/2IlntH6 --> Bild Ariane
+- https://bit.ly/2Ihfa2P --> Bild Feststoffantrieb
 
-
+---?image=assets/image/gitpitch-audience.jpg
+#### Quellen
+- https://bit.ly/2rDS1x5 --> Bild Flüssigkeitsantrieb
+- https://www.bernd-leitenberger.de/feststofftriebwerke.shtml
+- https://www.bernd-leitenberger.de/biligrak.shtml
+- https://www.esa.int/ESA
 
 
 
