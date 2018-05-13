@@ -41,7 +41,7 @@ Antriebsaufzählung
     + im wesentlichen Antriebe die ohne Treibstoff bzw. auf keine der eben genannten methoden funktionieren
 
 Nukleare Antriebe
-- erforschung erfolgte in der 60-70er Jahren in den USA
+- Erforschung erfolgte in der 60-70er Jahren in den USA
     + "damals" war die Atomkraft der Erlöser
     + Vision: Ersetzen der chemischen Antriebe auch zum verlassen von Planeten
     + eingestellt 1973
@@ -71,6 +71,18 @@ Nukleare Antriebe
     ---> Kathode dient als Elektronen Qulle --> Werden im Kanal gefangen --> Füllen diesen mitunter durch Hall-Drfit aus
     ---> durch Hohlanode wird Treibstoff eingeführt ---> Treibstoff Ionisiert --> beschleunigt ---> Autritt
     ---> Schub im mN-N Bereich
+
+andere Antriebe
+- Sonnensegel
+    - hat jeder berechent in Optik
+    - basiert auf eleastischer Reflektion von Photonen
+    - Nachteil
+        + Größe - Bei Massebelegung m/A von 10 g/m² 10 km/s geschwindigkiets zunahme dauert ca. 1 Jahr
+        + Photonendichte nimm mit 1/r² ab
+- Tether
+    + lange stromdurchflossene Kabel
+    + Magnetfeld eines Planeten ausnutzen
+    ---> Lorentzkraft beschleunigt
 
 Warp Drive
 

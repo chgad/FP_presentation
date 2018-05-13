@@ -88,17 +88,49 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - andere Antriebe
 @ulend
 
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+#### Technologieen für das Interstellare Reisen
+##### Elektrische Antriebe
+@ul
+- Lichtbogenantrieb
+  - verbaut in "METEOR" Wettersateliten
+  - benutzt zur Lageregelung
+  - Erhitzung des Treibstoffes wird ausgenutzt
+@ulend
+@ul
+- Hallantrieb
+  - verbaut im SMART 1 Projekt der ESA
+  - benutzt zur Beschleunigung
+  - Ionisation des Treibstoffes wird ausgenutzt
+@ulend
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
 ##### Nukleare Antriebe
-- Erforuschung in den 60er und 70er Jahren
-- der Festkernreaktor
+@ul
+- Erforschung in den 60er und 70er Jahren
+- der Festkernreaktor - NERVA
+- Reaktor Hitze wird ausgenutzt
+@ulend
+
+![NERVA](nerva.jpg)
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
+##### Andere Antriebe
+@ul
+- Sonnensegel
+  - letztes Projekt LightSail (2015)
+  - nutzt Impulsübertrag bei Reflektion von Licht
+@ulend
+@ul
+- Tether
+  - letztes Projekt STARS (2009)
+  - nutzt Magnetfeld von Planeten durch Lorentzkraft  
+@ulend
 
 ---?image=assets/image/jeremy-bishop.jpg
 
@@ -174,6 +206,9 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - https://www.wortbedeutung.info/Antrieb/
 - https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_das_Verbot_von_Kernwaffenversuchen_in_der_Atmosph%C3%A4re,_im_Weltraum_und_unter_Wasser
 - https://www.bernd-leitenberger.de/zukuenftige_antriebe.shtml
+- https://www.bernd-leitenberger.de/nukleare-antriebe.shtml
+- https://de.wikipedia.org/wiki/Sonnensegel_(Raumfahrt)
+- https://web.archive.org/web/20090201201834/http://stars1.eng.kagawa-u.ac.jp/english/index.html
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
