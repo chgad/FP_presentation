@@ -73,15 +73,15 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - Projekte der Raumfahrtorganisationen
 - Sci-Fi Technologien
 
----?image=assets/image/john-reign-abarintos.jpg
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
 
----?image=assets/image/john-reign-abarintos.jpg
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
 
----?image=assets/image/john-reign-abarintos.jpg
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 #### Technologieen für das Interstellare Reisen
 
@@ -113,7 +113,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - <strike>Projekte der Raumfahrtorganisationen</strike>
 - Sci-Fi Technologien
 
----?image=assets/image/john-reign-abarintos.jpg
+---?image=assets/image/octavian-rosca.jpg
 
 #### Sci-Fi Technologien
 
