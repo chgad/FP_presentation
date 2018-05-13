@@ -117,7 +117,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 #### Example
 @ul
-- Topic 1
+- Hello There
 @ulend
 @ul
   + test 1
@@ -127,7 +127,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 
 @ul
-- Topic 2
+- General Kenobi
 @ulend
 @ul
   + test 1
