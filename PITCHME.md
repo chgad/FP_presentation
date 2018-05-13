@@ -1,6 +1,6 @@
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-Der Weltraum...
+Der Weltraum ...
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
@@ -222,11 +222,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - https://de.wikipedia.org/wiki/Sonnensegel_(Raumfahrt)
 - https://web.archive.org/web/20090201201834/http://stars1.eng.kagawa-u.ac.jp/english/index.html
 
----?image=assets/image/john-reign-abarintos.jpg
-
-Irgendwas zu Technologieen zum Verlassen von Planeten.
-
-![test](test.jpg)
 
 
 
