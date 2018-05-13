@@ -115,7 +115,7 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - Reaktor Hitze wird ausgenutzt
 @ulend
 
-![NERVA](nerva.jpg =200x200)
+![NERVA](nerva.jpg =100x200)
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
