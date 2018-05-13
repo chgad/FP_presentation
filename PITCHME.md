@@ -119,15 +119,14 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ul
 
 - Warp Drive ~ Wirklich nur Fiktion
-
-  @ul
+@ul
   
   + Alcubierre Drive
   + Benötigt "exotic matter"
   + Bewegung erfolgt indirekt
   + Antrieb "verformt" Raumzeit
   
-  @ulend
+@ulend
   
 @ulend
 
@@ -135,13 +134,13 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 
 - Hyperspace ~ Wo soll das sein?
 
-  @ul
+@ul
   
   + keine extra Raumdimension
   + Raumkomprimierung
   + Routenplanung
-  
-  @ulend
+
+@ulend
   
 @ulend
 
