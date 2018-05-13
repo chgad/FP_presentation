@@ -119,8 +119,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ul
 
 - Warp Drive ~ Wirklich nur Fiktion
-@ulend
-@ul
   + Alcubierre Drive
   + Benötigt "exotic matter"
   + Bewegung erfolgt indirekt
@@ -128,8 +126,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 @ulend
 @ul
 - Hyperspace ~ Wo soll das sein?
-@ulend
-@ul
   + keine extra Raumdimension
   + Raumkomprimierung
   + Routenplanung
