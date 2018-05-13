@@ -98,8 +98,15 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   - benutzt zur Lageregelung
   - Erhitzung des Treibstoffes wird ausgenutzt
 @ulend
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+#### Technologieen für das Interstellare Reisen
+##### Elektrische Antriebe
 @ul
 - Hallantrieb
+@ulend
+@ul
   - verbaut im SMART 1 Projekt der ESA
   - benutzt zur Beschleunigung
   - Ionisation des Treibstoffes wird ausgenutzt
@@ -115,7 +122,6 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
 - Reaktor Hitze wird ausgenutzt
 @ulend
 
-
 <img src="nerva.jpg" alt="nerva" style="height: 300px;"/>
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
@@ -127,8 +133,15 @@ Dies sind leider nicht die Abenteuer des Raumschiff Enterprise.
   - letztes Projekt LightSail (2015)
   - nutzt Impulsübertrag bei Reflektion von Licht
 @ulend
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+#### Technologieen für das Interstellare Reisen
+##### Andere Antriebe
 @ul
 - Tether
+@ulend
+@ul
   - letztes Projekt STARS (2009)
   - nutzt Magnetfeld von Planeten durch Lorentzkraft  
 @ulend
